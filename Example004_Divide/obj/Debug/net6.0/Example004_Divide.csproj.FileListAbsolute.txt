@@ -1,0 +1,15 @@
+/Users/gennadj/Desktop/Examples3/Example004_Divide/obj/Debug/net6.0/Example004_Divide.csproj.AssemblyReference.cache
+/Users/gennadj/Desktop/Examples3/Example004_Divide/obj/Debug/net6.0/Example004_Divide.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gennadj/Desktop/Examples3/Example004_Divide/obj/Debug/net6.0/Example004_Divide.AssemblyInfoInputs.cache
+/Users/gennadj/Desktop/Examples3/Example004_Divide/obj/Debug/net6.0/Example004_Divide.AssemblyInfo.cs
+/Users/gennadj/Desktop/Examples3/Example004_Divide/obj/Debug/net6.0/Example004_Divide.csproj.CoreCompileInputs.cache
+/Users/gennadj/Desktop/Examples3/Example004_Divide/bin/Debug/net6.0/Example004_Divide
+/Users/gennadj/Desktop/Examples3/Example004_Divide/bin/Debug/net6.0/Example004_Divide.deps.json
+/Users/gennadj/Desktop/Examples3/Example004_Divide/bin/Debug/net6.0/Example004_Divide.runtimeconfig.json
+/Users/gennadj/Desktop/Examples3/Example004_Divide/bin/Debug/net6.0/Example004_Divide.dll
+/Users/gennadj/Desktop/Examples3/Example004_Divide/bin/Debug/net6.0/Example004_Divide.pdb
+/Users/gennadj/Desktop/Examples3/Example004_Divide/obj/Debug/net6.0/Example004_Divide.dll
+/Users/gennadj/Desktop/Examples3/Example004_Divide/obj/Debug/net6.0/refint/Example004_Divide.dll
+/Users/gennadj/Desktop/Examples3/Example004_Divide/obj/Debug/net6.0/Example004_Divide.pdb
+/Users/gennadj/Desktop/Examples3/Example004_Divide/obj/Debug/net6.0/Example004_Divide.genruntimeconfig.cache
+/Users/gennadj/Desktop/Examples3/Example004_Divide/obj/Debug/net6.0/ref/Example004_Divide.dll
