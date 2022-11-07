@@ -1,0 +1,15 @@
+/Users/gennadj/Desktop/Examples3/Example005_IF/bin/Debug/net6.0/Example005_IF
+/Users/gennadj/Desktop/Examples3/Example005_IF/bin/Debug/net6.0/Example005_IF.deps.json
+/Users/gennadj/Desktop/Examples3/Example005_IF/bin/Debug/net6.0/Example005_IF.runtimeconfig.json
+/Users/gennadj/Desktop/Examples3/Example005_IF/bin/Debug/net6.0/Example005_IF.dll
+/Users/gennadj/Desktop/Examples3/Example005_IF/bin/Debug/net6.0/Example005_IF.pdb
+/Users/gennadj/Desktop/Examples3/Example005_IF/obj/Debug/net6.0/Example005_IF.csproj.AssemblyReference.cache
+/Users/gennadj/Desktop/Examples3/Example005_IF/obj/Debug/net6.0/Example005_IF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gennadj/Desktop/Examples3/Example005_IF/obj/Debug/net6.0/Example005_IF.AssemblyInfoInputs.cache
+/Users/gennadj/Desktop/Examples3/Example005_IF/obj/Debug/net6.0/Example005_IF.AssemblyInfo.cs
+/Users/gennadj/Desktop/Examples3/Example005_IF/obj/Debug/net6.0/Example005_IF.csproj.CoreCompileInputs.cache
+/Users/gennadj/Desktop/Examples3/Example005_IF/obj/Debug/net6.0/Example005_IF.dll
+/Users/gennadj/Desktop/Examples3/Example005_IF/obj/Debug/net6.0/refint/Example005_IF.dll
+/Users/gennadj/Desktop/Examples3/Example005_IF/obj/Debug/net6.0/Example005_IF.pdb
+/Users/gennadj/Desktop/Examples3/Example005_IF/obj/Debug/net6.0/Example005_IF.genruntimeconfig.cache
+/Users/gennadj/Desktop/Examples3/Example005_IF/obj/Debug/net6.0/ref/Example005_IF.dll
